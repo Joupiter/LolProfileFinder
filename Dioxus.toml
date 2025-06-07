@@ -1,0 +1,28 @@
+[application]
+name = "lol-profile-finder"
+default-platform = "desktop"
+
+[desktop]
+index = "index.html"
+
+[web.app]
+
+# HTML title tag content
+title = "lol-profile-finder"
+
+# include `assets` in web platform
+[web.resource]
+assets-dir = "assets"
+
+# Additional CSS style files
+style = []
+
+# Additional JavaScript files
+script = []
+
+[web.resource.dev]
+assets-dir = "assets"
+
+# Javascript code file
+# serve: [dev-server] only
+script = []
