@@ -1,6 +1,6 @@
 # LoL Profile finder
 
-just an desktop opgg
+just an desktop opgg 
 
 ### Tailwind
 1. Install npm: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
